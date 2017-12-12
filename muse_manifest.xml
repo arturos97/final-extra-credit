@@ -1,0 +1,44 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arturos.me" resolutions="1x" timestamp="1513106223519">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4048909819" ref="index"/>
+    <file name="nomq_index.css" crc="4228489764" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="balloon_white.png" crc="160242043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u183-10.png" crc="3866292851" ref="index"/>
+    <file name="screen shot 2017-12-12 at 11114 pm.jpg" crc="261882716" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-12-12 at 11124 pm.jpg" crc="4103582088" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-12-12 at 11132 pm.jpg" crc="4086097332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-12-12 at 12609 pm223x62.jpg" crc="396655031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-12-12 at 12609 pm142x39.jpg" crc="287935788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u183-102.png" crc="3903289311" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="140553917" seo="true" mt="1513104229722" redirect="true"/>
+</manifest>
